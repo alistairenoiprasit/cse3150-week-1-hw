@@ -1,5 +1,5 @@
-# cse3150-template
-`Homework Week: `
+# cse3150 week 1
+`Homework Week: 1`
 
 `Name: Alistaire Noiprasit`
 
