@@ -1,10 +1,12 @@
 # cse3150 week 1
-> [!IMPORTANT]
-> This work is not yet ready for submission
 
 `Homework Week: 1`
 
 `Name: Alistaire Noiprasit`
+
+> [!IMPORTANT]
+> This work is not yet ready for submission as of `Tue 2 Sep 2025`.
+
 
 I declare that:
 - this assessment item is my own work, except where acknowledged, and has not been submitted for
