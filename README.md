@@ -8,7 +8,7 @@
 
 > [!IMPORTANT]
 > This work is ready for submission as of `Tue 2 Sep 2025`. <br>
-> The final due date is `Thur 4 Sep 2025`
+> The final due date is `Thur 4 Sep 2025`.
 
 
 I declare that:
