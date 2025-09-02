@@ -21,4 +21,4 @@ SIGNED: ALISTAIRE NOIPRASIT
 
 AI Declaration:
 The github workflow automation (including automating compiling in pytest) was done using ChatGPT and is unrelated to course materials. 
-(I just want to automate tests for pull requests).
+(I just want to automate the tests for pull requests).
