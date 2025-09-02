@@ -7,7 +7,7 @@
 [![Run Pytest](https://github.com/alistairenoiprasit/cse3150-week-1-hw/actions/workflows/pytest.yaml/badge.svg)](https://github.com/alistairenoiprasit/cse3150-week-1-hw/actions/workflows/pytest.yaml)
 
 > [!IMPORTANT]
-> This work is not yet ready for submission as of `Tue 2 Sep 2025`.
+> This work is ready for submission `Tue 2 Sep 2025`.
 
 
 I declare that:
