@@ -20,5 +20,5 @@ Misconduct.
 SIGNED: ALISTAIRE NOIPRASIT
 
 AI Declaration:
-The github workflow automation was done using ChatGPT and is unrelated to course materials. 
+The github workflow automation (including automating compiling in pytest) was done using ChatGPT and is unrelated to course materials. 
 (I just want to automate tests for pull requests).
